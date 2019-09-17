@@ -1,4 +1,3 @@
-using System;
 using Framework.CRUD.Middleware;
 using Framework.CRUD.Models;
 using Framework.CRUD.Repo;
@@ -8,19 +7,19 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace Framework.CRUD.Configure
 {
-    public class AutoConfigure
+    public static class AutoConfigure
     {
 
-        public static void AutoConfigureDefaultCrudFramework<TO, TI>(IServiceCollection services)
+        public static void AutoConfigureDefaultCrudFramework<TO, TI>(IServiceCollection services) where TO : IDefaultEntity
         {
-//            services.AddSingleton(typeof(ICrudRepo<TO, TI>), 
-//                typeof(DefaultRepo));
-//            
-//            services.AddSingleton(typeof(ICrudService<TO, TI>), 
-//                typeof(DefaultCrudService));
-//            
-//            services.AddSingleton<DefaultRepo>();
-//            services.AddSingleton<DefaultCrudService>();
+            services.AddSingleton(typeof(ICrudRepo<TO, TI>), 
+                typeof(DefaultRepo<TO>));
+            
+            services.AddSingleton(typeof(ICrudService<TO, TI>), 
+                typeof(DefaultCrudService<TO>));
+            
+            services.AddSingleton<DefaultRepo<TO>>();
+            services.AddSingleton<DefaultCrudService<TO>>();
         }
 
         public static void AutoConfigureMiddleWareCrudFramework(IApplicationBuilder app)

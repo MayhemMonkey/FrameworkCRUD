@@ -1,8 +1,5 @@
 ﻿using System;
 using Framework.CRUD.Configure;
-using Framework.CRUD.Models;
-using Framework.CRUD.Repo;
-using Framework.CRUD.Services;
 using FrameworkCRUDExamples.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -18,11 +15,7 @@ namespace FrameworkCRUDExamples
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-//            AutoConfigure.AutoConfigureDefaultCrudFramework<Person, Guid>(services);
-
-            services.AddSingleton<ICrudService<Person, Guid>, DefaultCrudService<Person>>();
-            services.AddSingleton<DefaultCrudService<Person>>();
-            services.AddSingleton<ICrudRepo<Person, Guid>, DefaultRepo<Person>>();
+            AutoConfigure.AutoConfigureDefaultCrudFramework<Person, Guid>(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
