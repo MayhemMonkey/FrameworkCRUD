@@ -1,0 +1,11 @@
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/bin/Debug/netcoreapp2.2/Framework.CRUD.deps.json
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/bin/Debug/netcoreapp2.2/Framework.CRUD.runtimeconfig.json
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/bin/Debug/netcoreapp2.2/Framework.CRUD.runtimeconfig.dev.json
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/bin/Debug/netcoreapp2.2/Framework.CRUD.dll
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/bin/Debug/netcoreapp2.2/Framework.CRUD.pdb
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/obj/Debug/netcoreapp2.2/Framework.CRUD.csprojAssemblyReference.cache
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/obj/Debug/netcoreapp2.2/Framework.CRUD.csproj.CoreCompileInputs.cache
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/obj/Debug/netcoreapp2.2/Framework.CRUD.AssemblyInfoInputs.cache
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/obj/Debug/netcoreapp2.2/Framework.CRUD.AssemblyInfo.cs
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/obj/Debug/netcoreapp2.2/Framework.CRUD.dll
+/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/obj/Debug/netcoreapp2.2/Framework.CRUD.pdb

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkCRUDExamples", "FrameworkCRUDExamples\FrameworkCRUDExamples.csproj", "{417C75FA-FE3E-4CCA-A965-997C27C40FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.CRUD", "..\Framework.CRUD\Framework.CRUD\Framework.CRUD.csproj", "{97B48658-D472-4136-8080-0F888AD7270F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417C75FA-FE3E-4CCA-A965-997C27C40FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417C75FA-FE3E-4CCA-A965-997C27C40FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417C75FA-FE3E-4CCA-A965-997C27C40FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417C75FA-FE3E-4CCA-A965-997C27C40FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B48658-D472-4136-8080-0F888AD7270F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B48658-D472-4136-8080-0F888AD7270F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B48658-D472-4136-8080-0F888AD7270F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B48658-D472-4136-8080-0F888AD7270F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

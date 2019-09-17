@@ -1,0 +1,17 @@
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/bin/Debug/netcoreapp2.2/FrameworkCRUDExamples.deps.json
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/bin/Debug/netcoreapp2.2/FrameworkCRUDExamples.runtimeconfig.json
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/bin/Debug/netcoreapp2.2/FrameworkCRUDExamples.runtimeconfig.dev.json
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/bin/Debug/netcoreapp2.2/FrameworkCRUDExamples.dll
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/bin/Debug/netcoreapp2.2/FrameworkCRUDExamples.pdb
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/bin/Debug/netcoreapp2.2/Framework.CRUD.dll
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/bin/Debug/netcoreapp2.2/Framework.CRUD.pdb
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.csprojAssemblyReference.cache
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.csproj.CoreCompileInputs.cache
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.RazorAssemblyInfo.cache
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.RazorAssemblyInfo.cs
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.AssemblyInfoInputs.cache
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.AssemblyInfo.cs
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.RazorTargetAssemblyInfo.cache
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.csproj.CopyComplete
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.dll
+/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/Debug/netcoreapp2.2/FrameworkCRUDExamples.pdb

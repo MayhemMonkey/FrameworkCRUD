@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/Framework.CRUD.csproj",
-    "projectName": "Framework.CRUD",
-    "projectPath": "/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/Framework.CRUD.csproj",
-    "outputPath": "/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/obj/",
+    "projectUniqueName": "/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/FrameworkCRUDExamples.csproj",
+    "projectName": "FrameworkCRUDExamples",
+    "projectPath": "/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/FrameworkCRUDExamples.csproj",
+    "outputPath": "/Users/mpenna/Documents/projects/FrameworkCRUD/FrameworkCRUDExamples/FrameworkCRUDExamples/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/Framework.CRUD.csproj": {
+            "projectPath": "/Users/mpenna/Documents/projects/FrameworkCRUD/Framework.CRUD/Framework.CRUD/Framework.CRUD.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -34,6 +38,7 @@
           "version": "[2.2.2, )"
         },
         "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
           "target": "Package",
           "version": "[2.2.0, )"
         },
